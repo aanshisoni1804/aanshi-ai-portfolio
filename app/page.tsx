@@ -98,7 +98,7 @@ export default function Home() {
           <div className="orbit orbit-one" />
           <div className="orbit orbit-two" />
           <div className="portrait-card">
-            <img src="/aanshi-ai-portrait.jpg" alt="AI illustrated portrait of Aanshi Soni" />
+            <img src="aanshi-ai-portrait.jpg" alt="AI illustrated portrait of Aanshi Soni" />
             <div className="portrait-label"><span>AI × Engineering</span><small>Ideas → Useful tools</small></div>
           </div>
           <div className="float-chip chip-one">Python</div>
