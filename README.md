@@ -18,7 +18,7 @@ A responsive one-page portfolio showcasing my software engineering experience, A
 ## Built with
 
 - React / TypeScript
-- Vinext (Next.js-compatible runtime)
+- Next.js
 - CSS and responsive media queries
 - OpenAI image generation for the custom portrait
 - ChatGPT Sites for deployment
@@ -34,7 +34,7 @@ npm install
 npm run dev
 ```
 
-Then open the local URL shown in the terminal.
+Then open http://localhost:3000.
 
 ## Author
 
