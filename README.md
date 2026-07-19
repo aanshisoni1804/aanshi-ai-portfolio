@@ -4,7 +4,7 @@ A responsive one-page portfolio showcasing my software engineering experience, A
 
 ## Live website
 
-**[View the live portfolio](https://aanshi-soni-portfolio.argb01.chatgpt.site)**
+**[View the live portfolio](https://aanshisoni1804.github.io/aanshi-ai-portfolio/)**
 
 ## Highlights
 
